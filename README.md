@@ -1,3 +1,3 @@
 # Blog_Site
  
-<a href="dekabilan.github.io/Blog_Site">Link</a>
+<a href="dekabilan.me/Blog_Site">Link</a>
